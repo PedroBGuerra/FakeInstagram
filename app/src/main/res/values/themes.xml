@@ -5,5 +5,10 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="toolbar_text">
+        <item name="android:fontFamily">@font/sansita_black</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
     <style name="Theme.FakeInstagram" parent="Base.Theme.FakeInstagram" />
 </resources>
